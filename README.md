@@ -8,3 +8,9 @@
 4. [백준] 22862 - [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)
 5. [Leet Code] - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 6. [Leet Code] - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+<br>
+
+# 2022년 1월15일~1월22일
+1. [백준] 17140번 - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
+2. [백준] 11660번 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
