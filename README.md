@@ -14,3 +14,5 @@
 # 2022년 1월15일~1월22일
 1. [백준] 17140번 - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
 2. [백준] 11660번 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+3. [백준] 14499번 - [주사위 굴리기](https://www.acmicpc.net/problem/14499)
+4. [백준] 1520번  - [내리막 길](https://www.acmicpc.net/problem/1520)
