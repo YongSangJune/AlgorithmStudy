@@ -10,10 +10,10 @@
 6. [Leet Code] - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 <details>
   <summary>용환 풀이</summary>
-  [1번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1932.java)
-  [2번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2156.java)
-  [3번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13164.java)
-  [4번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_22862.java)
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1932.java">1번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2156.java">2번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13164.java">3번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_22862.java">4번 풀이</a>
 </details>
 
 <br>
@@ -27,7 +27,7 @@
 6. [Leet Code] - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 <details>
   <summary>용환 풀이</summary>
-  [2번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_11660.java)
-  [3번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_14499.java)
-  [4번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1520.java)
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_11660.java">2번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_14499.java">3번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1520.java">4번 풀이</a>
 </details>
