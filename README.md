@@ -27,7 +27,6 @@
 6. [Leet Code] - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 <details>
   <summary>용환 풀이</summary>
-  [1번]()
   [2번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_11660.java)
   [3번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_14499.java)
   [4번](https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1520.java)
