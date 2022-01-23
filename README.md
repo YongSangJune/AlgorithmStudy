@@ -31,3 +31,9 @@
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_14499.java">3번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_1520.java">4번 풀이</a>
 </details>
+
+<br>
+
+# 2022년 1월23일~1월29일
+1. [백준] 11509번 - [풍선 맞추기](https://www.acmicpc.net/problem/11509)
+2. [백준] 2262번 - [토너먼트 만들기](https://www.acmicpc.net/problem/2262)
