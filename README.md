@@ -39,3 +39,5 @@
 2. [백준] 2262번 - [토너먼트 만들기](https://www.acmicpc.net/problem/2262)
 3. [백준] 15685번 - [드래곤 커브](https://www.acmicpc.net/problem/15685)
 4. [백준] 2573번 - [빙산](https://www.acmicpc.net/problem/2573)
+5. [Leet Code] - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+6. [Leet Code] - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
