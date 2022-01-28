@@ -49,7 +49,10 @@
   <summary>용환 풀이</summary>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_11509.java" target="_blank">1번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2262.java" target="_blank">2번 풀이</a>
-
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_15685.java" target="_blank">3번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2573.java" target="_blank">4번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_SortColors.java" target="_blank">5번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_MaximumSubarray.java" target="_blank">6번 풀이</a>
 </details>
 
 <br>
