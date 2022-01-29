@@ -38,7 +38,7 @@
 <br>
 
 # 2022년 1월23일~1월29일
-1. [백준] 11509번 - [풍선 맞추기](https://www.acmicpc.net/problem/11509)
+1. [백준] 11509번 - [풍선 맞추기](https://www.acmicpc.net/problem/11509) 
 2. [백준] 2262번 - [토너먼트 만들기](https://www.acmicpc.net/problem/2262)
 3. [백준] 15685번 - [드래곤 커브](https://www.acmicpc.net/problem/15685)
 4. [백준] 2573번 - [빙산](https://www.acmicpc.net/problem/2573)
@@ -53,6 +53,15 @@
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2573.java" target="_blank">4번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_SortColors.java" target="_blank">5번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_MaximumSubarray.java" target="_blank">6번 풀이</a>
+</details>
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/11509번%20-%20풍선%20맞추기.kt)
+  [2번](상호/백준/2262번%20-%20토너먼트%20만들기.md)
+  [3번](상호/백준/15686번%20-%20드래곤%20커브.kt)
+  [4번](상호/백준/2573번%20-%20빙산.kt)
 </details>
 
 <br>
