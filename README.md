@@ -70,3 +70,5 @@
 # 2022년 1월30일~2월5일
 1. [백준] 13975번 - [파일 합치기3](https://www.acmicpc.net/problem/13975)
 2. [백준] 13422번 - [도둑](https://www.acmicpc.net/problem/13422)
+3. [백준] 16768 - [Mooyo Mooyo](https://www.acmicpc.net/problem/16768)
+2. [백준] 2206 - [벽 부수고 ](https://www.acmicpc.net/problem/2206)
