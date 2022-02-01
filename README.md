@@ -66,3 +66,7 @@
 </details>
 
 <br>
+
+# 2022년 1월30일~2월5일
+1. [백준] 13975번 - [파일 합치기3](https://www.acmicpc.net/problem/13975)
+2. [백준] 13422번 - [도둑](https://www.acmicpc.net/problem/13422)
