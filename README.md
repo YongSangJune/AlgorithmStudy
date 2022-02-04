@@ -71,6 +71,14 @@
 1. [백준] 13975번 - [파일 합치기3](https://www.acmicpc.net/problem/13975)
 2. [백준] 13422번 - [도둑](https://www.acmicpc.net/problem/13422)
 3. [백준] 16768 - [Mooyo Mooyo](https://www.acmicpc.net/problem/16768)
-2. [백준] 2206 - [벽 부수고 ](https://www.acmicpc.net/problem/2206)
+4. [백준] 2206 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 5. [Leet Code] - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 6. [Leet Code] - [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/13975번%20-%20파일%20합치기3.kt)
+  [2번](상호/백준/13422번%20-%20도둑.kt)
+  [4번](상호/백준/2206번%20-%20벽%20부수고%20이동하기.kt)
+</details>
