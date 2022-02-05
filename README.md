@@ -81,4 +81,6 @@
   [1번](상호/백준/13975번%20-%20파일%20합치기3.kt)
   [2번](상호/백준/13422번%20-%20도둑.kt)
   [4번](상호/백준/2206번%20-%20벽%20부수고%20이동하기.kt)
+  [5번](상호/Leet%20Code/Longest%20Palindromic%20Substring.kt)
+  [6번](상호/Leet%20Code/Unique%20Binary%20Search%20Trees%20II.kt)
 </details>
