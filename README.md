@@ -81,6 +81,19 @@
   [1번](상호/백준/13975번%20-%20파일%20합치기3.kt)
   [2번](상호/백준/13422번%20-%20도둑.kt)
   [4번](상호/백준/2206번%20-%20벽%20부수고%20이동하기.kt)
+<<<<<<< HEAD
   [5번](상호/Leet%20Code/Longest%20Palindromic%20Substring.kt)
   [6번](상호/Leet%20Code/Unique%20Binary%20Search%20Trees%20II.kt)
 </details>
+=======
+</details>
+
+<details>
+  <summary>용환 풀이</summary>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13975.java" target="_blank">1번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13422.java" target="_blank">2번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_16768.java" target="_blank">3번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_LongestPalindromicSubstring.java" target="_blank">5번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Unique_Binary_Search_Trees_2.java" target="_blank">6번 풀이</a>
+</details>
+>>>>>>> f474f91b0c1434688a05d16ce3aa3cd5217f2730
