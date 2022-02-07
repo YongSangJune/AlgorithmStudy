@@ -93,3 +93,9 @@
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_LongestPalindromicSubstring.java" target="_blank">5번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Unique_Binary_Search_Trees_2.java" target="_blank">6번 풀이</a>
 </details>
+
+<br>
+
+# 2022년 2월6일~2월12일
+1. [백준] 2285번 - [우체국](https://www.acmicpc.net/problem/2285)
+2. [백준] 13397번 - [구간 나누기2](https://www.acmicpc.net/problem/13397)
