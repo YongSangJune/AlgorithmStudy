@@ -99,3 +99,5 @@
 # 2022년 2월6일~2월12일
 1. [백준] 2285번 - [우체국](https://www.acmicpc.net/problem/2285)
 2. [백준] 13397번 - [구간 나누기2](https://www.acmicpc.net/problem/13397)
+3. [백준] 21939번 - [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
+4. [백준] 5052번 - [전화번호 목록](https://www.acmicpc.net/problem/5052)
