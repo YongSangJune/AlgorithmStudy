@@ -103,3 +103,9 @@
 4. [백준] 5052번 - [전화번호 목록](https://www.acmicpc.net/problem/5052)
 5. [Leet Code] - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 6. [Leet Code] - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/2285번%20-%20우체국.kt)
+</details>
