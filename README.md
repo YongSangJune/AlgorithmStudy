@@ -101,3 +101,5 @@
 2. [백준] 13397번 - [구간 나누기2](https://www.acmicpc.net/problem/13397)
 3. [백준] 21939번 - [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
 4. [백준] 5052번 - [전화번호 목록](https://www.acmicpc.net/problem/5052)
+5. [Leet Code] - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+6. [Leet Code] - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
