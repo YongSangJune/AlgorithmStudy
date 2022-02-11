@@ -111,3 +111,13 @@
   [2번](상호/백준/13397번%20-%20구간%20나누기2.kt)
   [3번](상호/백준/21939번%20-%20문제%20추천%20시스템%20Version%201.kt)
 </details>
+
+<details>
+  <summary>용환 풀이</summary>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_2285.java" target="_blank">1번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13397.java" target="_blank">2번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_21939.java" target="_blank">3번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_5052.java" target="_blank">4번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Binary_Tree_Zigzag_Level_Order_Traversal" target="_blank">5번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Validate_Binary_Search_Tree.java" target="_blank">6번 풀이</a>
+</details>
