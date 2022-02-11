@@ -118,6 +118,6 @@
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_13397.java" target="_blank">2번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_21939.java" target="_blank">3번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/baekjoon/Main_5052.java" target="_blank">4번 풀이</a>
-  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Binary_Tree_Zigzag_Level_Order_Traversal" target="_blank">5번 풀이</a>
+  <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Binary_Tree_Zigzag_Level_Order_Traversal.java" target="_blank">5번 풀이</a>
   <a href="https://github.com/yongyongkr/Java_algorithm/blob/main/src/leetcode/Solution_Validate_Binary_Search_Tree.java" target="_blank">6번 풀이</a>
 </details>
