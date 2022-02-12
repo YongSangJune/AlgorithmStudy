@@ -111,6 +111,7 @@
   [2번](상호/백준/13397번%20-%20구간%20나누기2.kt)
   [3번](상호/백준/21939번%20-%20문제%20추천%20시스템%20Version%201.kt)
   [5번](상호/Leet%20Code/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.kt)
+  [6번](상호/Leet%20Code/Validate%20Binary%20Search%20Tree.kt)
 </details>
 
 <details>
