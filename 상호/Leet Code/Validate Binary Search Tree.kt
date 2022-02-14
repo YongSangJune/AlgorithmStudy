@@ -45,7 +45,8 @@ class Solution {
 }
 
 /**
- * 버전2 - 버전1과 논리는 같음
+ * 버전2 - 버전1과 논리는 같지만 
+ * null을 미리 처리해서 속도를 개선함
  */
 class Solution {
     
@@ -59,6 +60,9 @@ class Solution {
         var isLeftValid = true
         var isRightValid = true
         
+        // 왼쪽 자식이 왼쪽 범위를 만족하면,
+        // 왼쪽 서브 트리 전체를 재귀호출로 확인한다.
+        // 자식이 null이면 항상 true이므로 초기값을 true로 설정
         if (node.left != null) {
             val leftValue = node.left.`val`
             isLeftValid = if (leftValue >= lower && leftValue < node.`val`) {
@@ -68,6 +72,7 @@ class Solution {
             }
         }
         
+        // 위의 로직과 같다
         if (node.right != null) {
             val rightValue = node.right.`val`
             isRightValid = if (rightValue > node.`val` && rightValue <= upper) {
