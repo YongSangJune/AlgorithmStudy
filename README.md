@@ -129,6 +129,8 @@
 # 2022년 2월13일~2월19일
 1. [프로그래머스] - [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
 2. [백준] 17135번 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+3. [Leet Code] - [Gas Station](https://leetcode.com/problems/gas-station/)
+4. [Leet Code] - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 <details>
 <summary>상호 풀이</summary>
