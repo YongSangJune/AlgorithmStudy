@@ -131,6 +131,8 @@
 2. [백준] 17135번 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 3. [Leet Code] - [Gas Station](https://leetcode.com/problems/gas-station/)
 4. [Leet Code] - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+5. [프로그래머스] - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+6. [Leet Code] - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 <details>
 <summary>상호 풀이</summary>
