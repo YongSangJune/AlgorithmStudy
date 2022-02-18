@@ -140,4 +140,5 @@
   [1번](상호/프로그래머스/순위.kt)
   [2번](상호/백준/17135번%20-%20캐슬%20디펜스.kt)
   [3번](상호/Leet%20Code/Gas%20Station.kt)
+  [4번](상호/Leet%20Code/Search%20in%20Rotated%20Sorted%20Array.kt)
 </details>
