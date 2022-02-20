@@ -143,3 +143,13 @@
   [4번](상호/Leet%20Code/Search%20in%20Rotated%20Sorted%20Array.kt)
   [6번](상호/Leet%20Code/K%20Closest%20Points%20to%20Origin.kt)
 </details>
+
+<br>
+
+# 2022년 2월13일~2월19일
+1. [백준] 2293번 - [동전 1](https://www.acmicpc.net/problem/2293)
+2. [백준] 5502번 - [팰린드롬](https://www.acmicpc.net/problem/5502)
+3. 
+4. 
+5. 
+6. 
