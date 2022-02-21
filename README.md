@@ -149,7 +149,7 @@
 # 2022년 2월13일~2월19일
 1. [백준] 2293번 - [동전 1](https://www.acmicpc.net/problem/2293)
 2. [백준] 5502번 - [팰린드롬](https://www.acmicpc.net/problem/5502)
-3. 
-4. 
+3. [백준] 1477번 - [휴게소 세우기](https://www.acmicpc.net/problem/1477)
+4. [Leet Code] - [Jump Game](https://leetcode.com/problems/jump-game/)
 5. 
 6. 
