@@ -153,3 +153,9 @@
 4. [Leet Code] - [Jump Game](https://leetcode.com/problems/jump-game/)
 5. [백준] 16719 - [ZOAC](https://www.acmicpc.net/problem/16719)
 6. [프로그래머스] - [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/2293번%20-%20동전%201.kt)
+</details>
