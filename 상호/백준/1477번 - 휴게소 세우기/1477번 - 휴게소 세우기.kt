@@ -23,7 +23,7 @@ fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
     while (start <= end) {
         val mid = (start + end) / 2
 
-        // 적게 지었으면 휴게소간 간격을 더 줄일 수 있다
+        // 적게 지었으면 휴게소 간격을 더 줄일 수 있다
         if (getHowManyBuilt(stops, mid) <= m) {
             end = mid - 1
         } else {

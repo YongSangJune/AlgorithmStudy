@@ -188,7 +188,7 @@
 <details>
 <summary>상호 풀이</summary>
 
-  [1번]
+  [1번](상호/백준/5557번%20-%201학년.kt)
   [2번](상호/Leet%20Code/Maximum%20Width%20of%20Binary%20Tree.kt)
   [3번]
   [4번]
