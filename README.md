@@ -181,7 +181,7 @@
 1. [백준] 5557번 - [1학년](https://www.acmicpc.net/problem/5557)
 2. [Leet Code] - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 3. [프로그래머스] - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
-4. 
+4. [Leet Code] - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 5. 
 6. 
 
