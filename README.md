@@ -142,6 +142,7 @@
   [2번](상호/백준/17135번%20-%20캐슬%20디펜스.kt)
   [3번](상호/Leet%20Code/Gas%20Station.kt)
   [4번](상호/Leet%20Code/Search%20in%20Rotated%20Sorted%20Array.kt)
+  [5번](상호/프로그래머스/N으로%20표현.kt)
   [6번](상호/Leet%20Code/K%20Closest%20Points%20to%20Origin.kt)
 </details>
 
