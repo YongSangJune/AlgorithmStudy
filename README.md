@@ -192,8 +192,8 @@
 
   [1번](상호/백준/5557번%20-%201학년.kt)
   [2번](상호/Leet%20Code/Maximum%20Width%20of%20Binary%20Tree.kt)
-  [3번]
-  [4번]
+  [3번](상호/프로그래머스/단속카메라.java)
+  [4번](상호/Leet Code/Boats%20to%20save%20people.kt)
   [5번]
   [6번]
 </details>
