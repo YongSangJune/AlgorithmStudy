@@ -194,6 +194,6 @@
   [2번](상호/Leet%20Code/Maximum%20Width%20of%20Binary%20Tree.kt)
   [3번](상호/프로그래머스/단속카메라.java)
   [4번](상호/Leet Code/Boats%20to%20save%20people.kt)
-  [5번]
-  [6번]
+  [5번](상호/Hacker%20Rank/Gridland%20Metro.kt)
+  [6번](상호/Hacker%20Rank/Pairs.kt)
 </details>
