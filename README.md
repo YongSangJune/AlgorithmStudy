@@ -197,3 +197,13 @@
   [5번](상호/Hacker%20Rank/Gridland%20Metro.kt)
   [6번](상호/Hacker%20Rank/Pairs.kt)
 </details>
+
+<br>
+
+# 2022년 3월6일~3월12일
+1. [백준] 20058번 - [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
+2. [프로그래머스] - [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)
+3. 
+4. 
+5. 
+6. 
