@@ -63,6 +63,7 @@
   [3번](상호/백준/15686번%20-%20드래곤%20커브.kt)
   [4번](상호/백준/2573번%20-%20빙산.kt)
   [5번](상호/Leet%20Code/Sort%20Colors.kt)
+  [6번](상호/Leet%20Code/../Leet%20Code/Maximum%20Subarray.kt)
 </details>
 
 <br>
@@ -193,7 +194,7 @@
   [1번](상호/백준/5557번%20-%201학년.kt)
   [2번](상호/Leet%20Code/Maximum%20Width%20of%20Binary%20Tree.kt)
   [3번](상호/프로그래머스/단속카메라.java)
-  [4번](상호/Leet Code/Boats%20to%20save%20people.kt)
+  [4번](상호/Leet%20Code/Boats%20to%20save%20people.kt)
   [5번](상호/Hacker%20Rank/Gridland%20Metro.kt)
   [6번](상호/Hacker%20Rank/Pairs.kt)
 </details>
