@@ -204,18 +204,12 @@
 # 2022년 3월6일~3월12일
 1. [백준] 20058번 - [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
 2. [프로그래머스] - [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)
-3. 
-4. 
-5. 
-6. 
+3. [프로그래머스] - [아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) 
 
 <details>
 <summary>상호 풀이</summary>
 
   [1번](상호/백준/20058번%20-%20마법사%20상어와%20파이어스톰.kt)
   [2번](상호/프로그래머스/퍼즐%20조각%20채우기.kt)
-  [3번]
-  [4번]
-  [5번]
-  [6번]
+  [3번](상호/프로그래머스/아이템%20줍기.java)
 </details>
