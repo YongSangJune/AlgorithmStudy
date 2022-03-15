@@ -219,6 +219,8 @@
 # 2022년 3월13일~3월19일
 1. [백준] 17140번 - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
 2. [백준] 1937번 - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+3. [백준] 8980번 - [택배](https://www.acmicpc.net/problem/8980)
+4. [프로그래머스] - [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
 
 <details>
 <summary>상호 풀이</summary>
