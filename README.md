@@ -219,3 +219,14 @@
 # 2022년 3월13일~3월19일
 1. [백준] 17140번 - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
 2. [백준] 1937번 - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](
+  [2번](상호/백준/1937번%20-%20욕심쟁이%20판다.kt)
+  [3번]
+  [4번]
+  [5번]
+  [6번]
+</details>
