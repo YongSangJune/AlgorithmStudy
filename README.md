@@ -222,6 +222,7 @@
 3. [백준] 8980번 - [택배](https://www.acmicpc.net/problem/8980)
 4. [프로그래머스] - [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
 5. [프로그래머스] - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+6. [프로그래머스] - [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
 
 <details>
 <summary>상호 풀이</summary>
