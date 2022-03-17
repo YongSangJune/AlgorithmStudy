@@ -54,3 +54,42 @@ fun sortEachTownInfo(townInfo: Array<MutableList<Delivery>>) {
         deliveryList.sortWith(compareBy{it.to})
     }
 }
+
+// ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+/* 통과한 코드 */
+
+import java.io.*
+import java.util.*
+import kotlin.math.min
+
+data class Delivery(val from: Int, val to: Int, var box: Int)
+
+fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
+    var answer = 0
+    val st = StringTokenizer(readLine())
+
+    val n = st.nextToken().toInt()
+    val truckCapacity = st.nextToken().toInt()
+    val capacityArray = IntArray(n+1){ truckCapacity }
+
+    val deliveryList = mutableListOf<Delivery>()
+    val deliverySize = readLine().toInt()
+    repeat(deliverySize) {
+        val st2 = StringTokenizer(readLine())
+        deliveryList.add(Delivery(st2.nextToken().toInt(), st2.nextToken().toInt(), st2.nextToken().toInt()))
+    }
+    deliveryList.sortWith(compareBy<Delivery>{it.to}.thenBy{it.from})
+
+    deliveryList.forEach { delivery ->
+        val minCapacity = (delivery.from until delivery.to).minOfOrNull { capacityArray[it] }
+        val deliveredBox = min(minCapacity!!, delivery.box)
+        answer += deliveredBox
+
+        for (town in delivery.from until delivery.to) {
+            capacityArray[town] -= deliveredBox
+        }
+    }
+
+    print(answer)
+}
