@@ -1,3 +1,9 @@
+/* https://www.acmicpc.net/problem/13397 */
+
+/**
+ * 첫 풀이
+ */
+
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.*
@@ -58,4 +64,59 @@ fun isValid(array: IntArray, standard: Int, divideLimit: Int): Boolean {
     count++ // 마지막 구간
 
     return count <= divideLimit
+}
+
+/**
+ * 2022-03-31: 복습
+ */
+ 
+ fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
+    val (size, limitOfSection) = readLine().split(" ").map(String::toInt)
+    val numbers = with(StringTokenizer(readLine())){
+        IntArray(size){ this.nextToken().toInt() }
+    }
+
+    var start = 0
+    var end = 9999
+
+    // 1. 구간 점수의 최대값을 가지고 이분 탐색을 한다
+    // 2. 점수의 최대값을 기준으로 구간을 나눠본다
+    // 3-1) if 구간 수 <= limitOfSection: 구간 점수 최대값의 최소값을 찾기 위해 구간 점수를 더 낮춰서 확인
+    // 3-2) else: 지금 구간 점수의 최대값이 너무 작아서 구간 수가 너무 많다 -> 구간 점수를 올려서 확인 
+    while(start <= end) {
+        val maxSectionScore = (start + end) / 2
+        val sectionCount = getNumOfSection(numbers, maxSectionScore)
+        
+        // limitOfSection보다
+        if (sectionCount <= limitOfSection) {
+            end = maxSectionScore - 1
+        } else {
+            start = maxSectionScore + 1
+        }
+    }
+
+    println(start)
+}
+
+fun getNumOfSection(numbers: IntArray, maxScore: Int): Int {
+    var count = 1 // 마지막에 구간이 바뀌지 않고 끝나는 것까지 포함시킬 수 있음
+    var maxNum = Int.MIN_VALUE
+    var minNum = Int.MAX_VALUE
+    var currentScore = 0
+
+    // 점수마다 현재 구간에 포함될 수 있는지 확인
+    for (num in numbers) {
+        maxNum = max(maxNum, num)
+        minNum = min(minNum, num)
+        currentScore = maxNum - minNum
+
+        // 지금 점수가 현재 구간에 포함될 수 없을 때
+        if (currentScore > maxScore) {
+            count++
+            maxNum = num
+            minNum = num
+        }
+    }
+
+    return count
 }
