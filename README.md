@@ -239,4 +239,4 @@
 
 # 2022년5월11일
 1. [Leet Code] - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-2. 
+2. [백준] - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
