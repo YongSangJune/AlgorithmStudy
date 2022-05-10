@@ -241,5 +241,3 @@
 # 2022년5월11일
 1. [Leet Code] - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 2. 
-=======
->>>>>>> 9d789713393fe679c5c2ae13057a77c5dd99db95
