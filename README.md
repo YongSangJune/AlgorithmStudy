@@ -262,6 +262,11 @@
   [2번](상호/Leet%20Code/../Leet%20Code/Jump%20Game%20II.kt)
   [1번](https://junbangg.github.io/leetcode/jump-game-2/)
 </details>
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://junbangg.github.io/leetcode/jump-game-2/)
+</details>
 
 # 2022년5월12일
 1. [Leet Code] - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
