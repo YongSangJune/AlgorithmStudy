@@ -254,3 +254,10 @@
 # 2022년5월11일
 1. [Leet Code] - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 2. [백준] - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/21610번%20-%20마법사%20상어와%20비바라기.kt)
+  [2번](상호/Leet%20Code/../Leet%20Code/Jump%20Game%20II.kt)
+</details>
