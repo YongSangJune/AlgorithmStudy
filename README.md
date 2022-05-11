@@ -270,3 +270,4 @@
 
 # 2022년5월12일
 1. [Leet Code] - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+2. [백준] - [치즈](https://www.acmicpc.net/problem/2638)
