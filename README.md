@@ -244,7 +244,7 @@
 - 그리디
 - 투포인터/슬라이딩 윈도우
 - 그래프 (DFS/BFS)
--  자료구조 ( 스택 / 해쉬맵 / 우선순위 큐 /  연결리스트 / 트리)
+- 자료구조 ( 스택 / 해쉬맵 / 우선순위 큐 /  연결리스트 / 트리)
 - 그래프 ( 최단거리 / Union Find )
 - 문자열
 - 이분탐색
@@ -260,4 +260,8 @@
 
   [1번](상호/백준/21610번%20-%20마법사%20상어와%20비바라기.kt)
   [2번](상호/Leet%20Code/../Leet%20Code/Jump%20Game%20II.kt)
+  [1번](https://junbangg.github.io/leetcode/jump-game-2/)
 </details>
+
+# 2022년5월12일
+1. [Leet Code] - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
