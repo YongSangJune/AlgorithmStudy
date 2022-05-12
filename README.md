@@ -282,4 +282,4 @@
 
 # 2022년5월13일
 1. [백준] 15684번 - 사다리 조작(https://www.acmicpc.net/problem/15684)
-2. 
+2. [Leet Code] - Simplify Path(https://leetcode.com/problems/simplify-path/)
