@@ -272,6 +272,12 @@
 1. [Leet Code] - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 2. [백준] - [치즈](https://www.acmicpc.net/problem/2638)
 
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/Leet%20Code/../Leet%20Code/3Sum%20Closest.kt)
+</details>
+
 <br>
 
 # 2022년5월13일
