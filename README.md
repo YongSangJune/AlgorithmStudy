@@ -283,9 +283,14 @@
 
   [1번](https://junbangg.github.io/leetcode/2638/)
 </details>
-
 <br>
 
 # 2022년5월13일
 1. [백준] 15684번 - 사다리 조작(https://www.acmicpc.net/problem/15684)
 2. [Leet Code] - Simplify Path(https://leetcode.com/problems/simplify-path/)
+<details>
+<summary>준석 풀이</summary>
+
+  [2번](https://junbangg.github.io/leetcode/Simplify-Path/)
+</details>
+<br>
