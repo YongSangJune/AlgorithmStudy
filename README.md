@@ -294,3 +294,6 @@
   [2번](https://junbangg.github.io/leetcode/Simplify-Path/)
 </details>
 <br>
+
+# 2022년5월16일
+1. [백준] 22865 - 가장 먼 곳(https://www.acmicpc.net/problem/22865)
