@@ -260,11 +260,11 @@
 
   [1번](상호/백준/21610번%20-%20마법사%20상어와%20비바라기.kt)
   [2번](상호/Leet%20Code/../Leet%20Code/Jump%20Game%20II.kt)
-  [1번](https://junbangg.github.io/leetcode/jump-game-2/)
 </details>
+
 <details>
 <summary>준석 풀이</summary>
-
+  
   [1번](https://junbangg.github.io/leetcode/jump-game-2/)
 </details>
 
@@ -277,7 +277,7 @@
 
   [1번](상호/Leet%20Code/../Leet%20Code/3Sum%20Closest.kt)
 </details>
-<br>
+
 <details>
 <summary>준석 풀이</summary>
 
@@ -290,11 +290,12 @@
 2. [Leet Code] - [Simplify Path](https://leetcode.com/problems/simplify-path/)
 <details>
 <summary>준석 풀이</summary>
-
+  
   [2번](https://junbangg.github.io/leetcode/Simplify-Path/)
 </details>
+
 <br>
 
 # 2022년5월16일
 1. [백준] 22865 - [가장 먼 곳](https://www.acmicpc.net/problem/22865)
-2. [백준] 2671 - [](https://www.acmicpc.net/problem/2671)
+2. [백준] 2671 - [잠수함 식별](https://www.acmicpc.net/problem/2671)
