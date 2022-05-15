@@ -286,8 +286,8 @@
 <br>
 
 # 2022년5월13일
-1. [백준] 15684번 - 사다리 조작(https://www.acmicpc.net/problem/15684)
-2. [Leet Code] - Simplify Path(https://leetcode.com/problems/simplify-path/)
+1. [백준] 15684번 - [사다리 조작](https://www.acmicpc.net/problem/15684)
+2. [Leet Code] - [Simplify Path](https://leetcode.com/problems/simplify-path/)
 <details>
 <summary>준석 풀이</summary>
 
@@ -296,4 +296,5 @@
 <br>
 
 # 2022년5월16일
-1. [백준] 22865 - 가장 먼 곳(https://www.acmicpc.net/problem/22865)
+1. [백준] 22865 - [가장 먼 곳](https://www.acmicpc.net/problem/22865)
+2. [백준] 2671 - [](https://www.acmicpc.net/problem/2671)
