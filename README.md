@@ -299,3 +299,9 @@
 # 2022년5월16일
 1. [백준] 22865 - [가장 먼 곳](https://www.acmicpc.net/problem/22865)
 2. [백준] 2671 - [잠수함 식별](https://www.acmicpc.net/problem/2671)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/22865%20-%20가장%20먼%20곳.kt)
+</details>
