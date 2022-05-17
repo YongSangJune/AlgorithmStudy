@@ -297,8 +297,8 @@
 <br>
 
 # 2022년5월16일
-1. [백준] 22865 - [가장 먼 곳](https://www.acmicpc.net/problem/22865)
-2. [백준] 2671 - [잠수함 식별](https://www.acmicpc.net/problem/2671)
+1. [백준] 22865번 - [가장 먼 곳](https://www.acmicpc.net/problem/22865)
+2. [백준] 2671번 - [잠수함 식별](https://www.acmicpc.net/problem/2671)
 
 <details>
 <summary>상호 풀이</summary>
@@ -307,4 +307,5 @@
 </details>
 
 # 2022년5월18일
-1. [백준] 2015 - [수들의 합 4](https://www.acmicpc.net/problem/2015)
+1. [백준] 2015번 - [수들의 합 4](https://www.acmicpc.net/problem/2015)
+2. [백준] 20444번 - [색종이와 가위](https://www.acmicpc.net/problem/20444)
