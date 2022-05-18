@@ -315,3 +315,6 @@
 
   [1번](https://best-human-developer.tistory.com/95)
 </details>
+
+# 2022년5월18일
+1. [백준] 20056번 - [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
