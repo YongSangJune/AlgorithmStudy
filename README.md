@@ -303,9 +303,15 @@
 <details>
 <summary>상호 풀이</summary>
 
-  [1번](상호/백준/22865%20-%20가장%20먼%20곳.kt)
+  [1번](https://best-human-developer.tistory.com/94)
 </details>
 
 # 2022년5월18일
 1. [백준] 2015번 - [수들의 합 4](https://www.acmicpc.net/problem/2015)
 2. [백준] 20444번 - [색종이와 가위](https://www.acmicpc.net/problem/20444)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/95)
+</details>
