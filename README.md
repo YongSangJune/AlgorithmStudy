@@ -305,6 +305,7 @@
 
   [1번](https://best-human-developer.tistory.com/94)
 </details>
+<br>
 
 # 2022년5월18일
 1. [백준] 2015번 - [수들의 합 4](https://www.acmicpc.net/problem/2015)
@@ -315,6 +316,13 @@
 
   [1번](https://best-human-developer.tistory.com/95)
 </details>
+<br>
 
-# 2022년5월18일
+# 2022년5월19일
 1. [백준] 20056번 - [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/20056번%20-%20마법사%20상어와%20파이어볼.kt)
+</details>
