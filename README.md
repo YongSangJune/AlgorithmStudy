@@ -331,3 +331,10 @@
 # 2022년5월20일
 1. [백준] 2812번 - [크게 만들기](https://www.acmicpc.net/problem/2812)
 2. [백준] 22945 - [팀 빌딩](https://www.acmicpc.net/problem/22945)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/96)
+</details>
+<br>

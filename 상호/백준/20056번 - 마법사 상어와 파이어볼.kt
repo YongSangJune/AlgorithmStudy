@@ -1,4 +1,5 @@
 /* https://www.acmicpc.net/problem/20056 */
+/* 삼성형 구현 문제 */
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
