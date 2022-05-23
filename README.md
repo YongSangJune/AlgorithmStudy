@@ -338,3 +338,13 @@
   [1번](https://best-human-developer.tistory.com/96)
 </details>
 <br>
+
+# 2022년5월23일
+1. [백준] 2573번 - [빙산](https://www.acmicpc.net/problem/2573)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/2573번%20-%20빙산.md)
+</details>
+<br>
