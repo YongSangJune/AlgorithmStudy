@@ -351,3 +351,4 @@
 
 # 2022년5월24일
 1. [백준] 22942 - [데이터 체커](https://www.acmicpc.net/problem/22942)
+2. [백준] 1976 - [여행 가자](https://www.acmicpc.net/problem/1976)
