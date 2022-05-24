@@ -354,7 +354,7 @@
 2. [백준] 1976 - [여행 가자](https://www.acmicpc.net/problem/1976)
 
 <details>
-<summary>상호 풀이</summary>
+<summary>준석 풀이</summary>
 
   [1번](https://junbangg.github.io/boj/22942/)
   [2번](https://junbangg.github.io/boj/1976/)
