@@ -359,4 +359,9 @@
   [1번](https://junbangg.github.io/boj/22942/)
   [2번](https://junbangg.github.io/boj/1976/)
 </details>
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/22942번%20-%20데이터%20체커.kt)
+</details>
 <br>
