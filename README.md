@@ -357,5 +357,6 @@
 <summary>상호 풀이</summary>
 
   [1번](https://junbangg.github.io/boj/22942/)
+  [2번](https://junbangg.github.io/boj/1976/)
 </details>
 <br>
