@@ -369,3 +369,11 @@
 # 2022년5월25일
 1. [백준] 20437 - [문자열 게임2](https://www.acmicpc.net/problem/20437)
 2. [백준] 2412 - [암벽 등반](https://www.acmicpc.net/problem/2412)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/97)
+  [2번](https://best-human-developer.tistory.com/98)
+</details>
+<br>
