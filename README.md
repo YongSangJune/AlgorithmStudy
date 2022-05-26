@@ -381,5 +381,12 @@
 # 2022년5월26일
 1. [백준] 1749 - [점수따먹기](https://www.acmicpc.net/problem/1749)
 
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/101)
+</details>
+<br>
+
 # 2022년5월27일
 1. [Leet Code] -[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
