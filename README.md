@@ -382,4 +382,4 @@
 1. [백준] 1749 - [점수따먹기](https://www.acmicpc.net/problem/1749)
 
 # 2022년5월27일
-1. [Leet Code] -[Spiral Matrix]([https://www.acmicpc.net/problem/1749](https://leetcode.com/problems/spiral-matrix/))
+1. [Leet Code] -[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
