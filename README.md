@@ -377,3 +377,6 @@
   [2번](https://best-human-developer.tistory.com/98)
 </details>
 <br>
+
+# 2022년5월26일
+1. [백준] 1749 - [점수 ](https://www.acmicpc.net/problem/1749)
