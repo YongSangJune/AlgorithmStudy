@@ -379,4 +379,4 @@
 <br>
 
 # 2022년5월26일
-1. [백준] 1749 - [점수 ](https://www.acmicpc.net/problem/1749)
+1. [백준] 1749 - [점수따먹기](https://www.acmicpc.net/problem/1749)
