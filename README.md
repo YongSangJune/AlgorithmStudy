@@ -398,3 +398,6 @@
   [1번](https://best-human-developer.tistory.com/102)
 </details>
 <br>
+
+# 2022년5월28일
+1. [백준] 6068 -[시간 관리하기]([https://leetcode.com/problems/spiral-matrix/](https://www.acmicpc.net/problem/6068)
