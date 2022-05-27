@@ -390,3 +390,10 @@
 
 # 2022년5월27일
 1. [Leet Code] -[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/102)
+</details>
+<br>
