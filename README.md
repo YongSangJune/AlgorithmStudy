@@ -401,3 +401,9 @@
 
 # 2022년5월28일
 1. [백준] 6068 -[시간 관리하기](https://www.acmicpc.net/problem/6068)
+
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://junbangg.github.io/boj/6068/)
+</details>
