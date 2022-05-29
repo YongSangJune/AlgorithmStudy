@@ -407,3 +407,9 @@
 
   [1번](https://junbangg.github.io/boj/6068/)
 </details>
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/104)
+</details>
+<br>
