@@ -426,3 +426,11 @@
   [2번](상호/백준/17836번%20-%20공주님을%20구해라!.kt)
 </details>
 <br>
+
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://junbangg.github.io/leet%20code/Fruit-into-Baskets/)
+  [2번](https://junbangg.github.io/boj/17836/)
+</details>
+<br>
