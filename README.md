@@ -441,3 +441,8 @@
 
   [1번](상호/프로그래머스/베스트%20앨범.kt)
 </details>
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://junbangg.github.io/programmers/153/)
+</details>
