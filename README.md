@@ -414,7 +414,6 @@
 </details>
 <br>
 
-
 # 2022년5월31일
 1. [Leet Code] - [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 2. [백준] 17836 - [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
@@ -425,7 +424,6 @@
   [1번](상호/Leet%20Code/Fruit%20into%20Baskets.kt)
   [2번](상호/백준/17836번%20-%20공주님을%20구해라!.kt)
 </details>
-<br>
 
 <details>
 <summary>준석 풀이</summary>
@@ -437,3 +435,9 @@
 
 # 2022년6월1일
 1. [프로그래머스] - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/프로그래머스/베스트%20앨범.kt)
+</details>
