@@ -450,3 +450,10 @@
 
 # 2022년6월1일
 1. [프로그래머스] - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://blog.naver.com/wnstjr4620/222342025388)
+</details>
+<br>
