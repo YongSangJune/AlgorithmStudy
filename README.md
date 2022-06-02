@@ -456,4 +456,10 @@
 
   [1번](https://blog.naver.com/wnstjr4620/222342025388)
 </details>
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/프로그래머스/가장%20먼%20노드.kt)
+</details>
 <br>
+
