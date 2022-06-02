@@ -446,3 +446,7 @@
 
   [1번](https://junbangg.github.io/programmers/153/)
 </details>
+<br>
+
+# 2022년6월1일
+1. [프로그래머스] - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
