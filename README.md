@@ -489,3 +489,10 @@
 # 2022년6월9일
 1. [백준] 20040 - [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440)
 2. [Leet Code] - [N-Queens](https://leetcode.com/problems/n-queens/)
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/백준/20040번%20-%20🎵니가%20싫어%20싫어%20너무%20싫어%20싫어%20오지%20마%20내게%20찝쩍대지마🎵%20-%201.kt)
+  [2번](상호/Leet%20Code/N-Queens.kt)
+</details>
+<br>
