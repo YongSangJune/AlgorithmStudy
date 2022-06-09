@@ -466,6 +466,11 @@
 
 # 2022년6월3일
 1. [Leet Code] - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/Leet%20Code/Integer%20to%20Roman.kt)
+</details>
 <br>
 
 # 2022년6월7일
@@ -495,4 +500,3 @@
   [1번](상호/백준/20040번%20-%20🎵니가%20싫어%20싫어%20너무%20싫어%20싫어%20오지%20마%20내게%20찝쩍대지마🎵%20-%201.kt)
   [2번](상호/Leet%20Code/N-Queens.kt)
 </details>
-<br>
