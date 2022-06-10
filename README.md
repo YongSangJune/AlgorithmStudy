@@ -501,5 +501,4 @@
   [2번](상호/Leet%20Code/N-Queens.kt)
 </details>
 
-# 2022년6월10일
-- [문제 링크](https://morning-ninja-53b.notion.site/Kakao-Commerce-2021-4ad6383a94df441d9dfe0df9266b18c8)
+
