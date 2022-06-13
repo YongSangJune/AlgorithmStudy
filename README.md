@@ -503,3 +503,9 @@
 
 # 2022년6월13일
 1. [Leet Code] - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+
+<details>
+<summary>준석 풀이</summary>
+
+  [1번](https://junbangg.github.io/programmers/WiggleSubsequence/)
+</details>
