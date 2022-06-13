@@ -503,6 +503,7 @@
 
 # 2022년6월13일
 1. [Leet Code] - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+2. [Leet Code] - [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 <details>
 <summary>준석 풀이</summary>
