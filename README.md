@@ -510,3 +510,9 @@
 
   [1번](https://junbangg.github.io/programmers/WiggleSubsequence/)
 </details>
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](https://best-human-developer.tistory.com/112)
+</details>
+<br>
