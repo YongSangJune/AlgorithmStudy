@@ -519,6 +519,11 @@
 
 # 2022년6월17일
 1. [Leet Code] - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/Leet%20Code/Largest%20Rectangle%20in%20Histogram.kt)
+</details>
 <br>
 
 # 2022년6월18일

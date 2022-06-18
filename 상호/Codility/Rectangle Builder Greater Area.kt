@@ -1,17 +1,23 @@
 /* https://app.codility.com/programmers/trainings/2/rectangle_builder_greater_area/ */
 /* 이분 탐색: Lower Bound */
+
+import kotlin.math.ceil
+import kotlin.math.sqrt
+import java.util.*
+
 fun solution(A: IntArray, X: Int): Int {
     var answer = 0
-    val penCountMap: Map<Int, Int> = getPenCount(A)
+    val penCountMap: Map<Int, Int> = getPenCount(A) // 길이 to 개수
     val pens = LinkedList<Int>().apply{ addAll(getPensMoreThanOne(penCountMap)) }
     val MAX_COUNT = 1_000_000_000
+    val sqrtOfX = sqrt(X.toDouble())
 
     while (pens.isNotEmpty()) {
         val length = pens.poll()
 
         if (answer > MAX_COUNT) break
         // 4개 이상 있으면서 제곱값 >= X인 경우 
-        if (length >= sqrt(X.toFloat()) && penCountMap[length]!! >= 4) answer++
+        if (length >= sqrtOfX && penCountMap[length]!! >= 4) answer++
 
         // target * length >= X
         // target: length와 곱했을 때 X보다 크거나 같은 lower bound
