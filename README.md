@@ -524,6 +524,13 @@
 # 2022년6월18일
 1. [Codility] - [Disappearing Pairs](https://app.codility.com/programmers/trainings/4/disappearing_pairs/)
 2. [Codility] - [Rectangle Builder Greater Area](https://app.codility.com/programmers/trainings/2/rectangle_builder_greater_area/)
+<details>
+<summary>상호 풀이</summary>
+
+  [1번](상호/Codility/Disappearing%20Pairs.kt)
+  [2번](상호/Codility/Rectangle%20Builder%20Greater%20Area.kt)
+</details>
+<br>
 
 # 2022년6월20일
 1. [Leet Code] - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
