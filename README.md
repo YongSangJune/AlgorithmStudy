@@ -338,6 +338,12 @@
 
   [1번](https://best-human-developer.tistory.com/96)
 </details>
+
+<details>
+<summary>준석 풀이</summary>
+
+  [2번](https://junbangg.github.io/boj/22945/)
+</details>
 <br>
 
 # 2022년5월23일
